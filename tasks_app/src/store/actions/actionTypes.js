@@ -1,0 +1,3 @@
+export const GET_LIST_TASKS = 'GET_LIST_PATIENTS';
+export const TRY_CREATE_TASK = "TRY_CREATE_TASK";
+export const AJOUT_FAIL = 'AJOUT_FAIL';
